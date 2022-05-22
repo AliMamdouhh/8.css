@@ -1,0 +1,37 @@
+.A{
+				background: #3d4451;
+	}
+	
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 4px 4px 5px #000000;
+  -webkit-box-shadow: 4px 4px 5px #000000;
+  -moz-box-shadow: 4px 4px 5px #000000;
+  box-shadow: 4px 4px 5px #000000;
+  font-family: Courier New;
+  color: black ;
+  font-size: 23px;
+  padding: 10px;
+  background: #cacbd5;
+  border: solid #cacbd5 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #666f88;
+  text-decoration: none;
+}
+
+.btn{
+	 
+				 
+				
+				
+}
+.D{
+				padding: 240px 30px 30px 30px;
+				
+}
+
